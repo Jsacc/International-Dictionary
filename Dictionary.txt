@@ -1,0 +1,100 @@
+German noun der Mann 0 -999 man
+German noun das Ol 153 0 oil
+German noun die Frau 0 -999 woman
+German noun das Fraulein 132 2 Miss
+German noun das Madchen 132 1 girl
+German noun das Kind 0 -999 child
+German noun das Haus 0 -999 house
+German noun die Schule 0 -999 school
+German noun die Tur 129 1 door
+German verb -999 kommen 0 -999 to come
+German verb -999 gehen 0 -999 to go
+German verb -999 sehen 0 -999 to see
+German verb -999 wollen 0 -999 to want
+German verb -999 wissen 0 -999 to know
+German verb -999 konnen 148 1 to be able
+German preposition -999 vor 0 -999 before
+German preposition -999 nach 0 -999 after
+German preposition -999 zu 0 -999 to
+German preposition -999 bis 0 -999 until
+German preposition -999 ohne 0 -999 without
+German cardinal number -999 eins 0 -999 one
+German cardinal number -999 zwei 0 -999 two
+German cardinal number -999 drei 0 -999 three
+German adverb -999 hoch 0 -999 high
+German adjective/adverb -999 gut 0 -999 good
+French noun le mot 0 -999 word
+French noun le garcon 135 3 boy
+French adjective -999 jeune 0 -999 young
+French noun le boulanger 0 -999 baker
+French noun la fille 0 -999 girl
+French adjective -999 francais 135 4 French
+French noun le livre 0 -999 book
+French noun l' ecole 130 0 school
+French noun la maison 0 -999 house
+French verb -999 etre 136 0 to be
+French preposition -999 apres 138 3 after
+French verb -999 voir 0 -999 to see
+French verb -999 dire 0 -999 to say
+French verb -999 aller 0 -999 to go
+French adjective -999 bon 0 -999 good
+French noun le mardi 0 -999 Tuesday
+French noun la salle 0 -999 room
+French pronoun -999 elle 0 -999 she
+French noun le jour 0 -999 day
+French adverb -999 aujourd'hui 0 -999 today
+French noun la pluie 0 -999 rain
+French noun le cheval 0 -999 horse
+French noun le moulin 0 -999 mill
+French adjective -999 rouge 0 -999 red
+French noun la neige 0 -999 snow
+Latin noun(m) -999 puer 0 -999 boy
+Latin noun(m) -999 pistor 0 -999 baker
+Latin noun(f) -999 puella 0 -999 girl
+Latin adjective -999 bonus 0 -999 good
+Latin noun(m) -999 liber 0 -999 book
+Latin noun(f) -999 schola 0 -999 school
+Latin noun(f) -999 domus 0 -999 house
+Latin verb -999 esse 0 -999 to be
+Latin preposition -999 post 0 -999 after
+Latin pronoun -999 illa 0 -999 she
+Latin noun(n) -999 conclave 0 -999 room
+Latin adverb -999 hodie 0 -999 today
+Latin noun(f) -999 pluvia 0 -999 rain
+Latin noun(m) -999 equus 0 -999 horse
+Latin noun(f) -999 mola 0 -999 mill
+Latin adjective -999 ruber 0 -999 red
+Latin noun(f) -999 nix 0 -999 snow
+Latin verb -999 ire 0 -999 to go
+Latin noun(m) -999 occulus 0 -999 eye
+Latin adverb -999 intro 0 -999 within
+Latin noun(f) -999 femina 0 -999 woman
+Latin noun(m) -999 hommunculus 0 -999 little man
+Latin noun(n) -999 malum 0 -999 apple
+Latin conjunction -999 nam 0 -999 for
+Latin noun(m) -999 zelus 0 -999 zeal
+Hebrew adverb(m) -999 rachok 0 -999 far
+Hebrew noun(f) -999 panim 0 -999 face
+Hebrew noun(m) -999 tapuach 0 -999 apple
+Hebrew noun(f) -999 ma'afiah 0 -999 bakery
+Hebrew noun(f) -999 ayin 0 -999 eye
+Hebrew adjective(m) -999 adom 0 -999 red
+Hebrew noun(m) -999 sheleg 0 -999 snow
+Hebrew noun(m) -999 ochel 0 -999 food
+Hebrew adjective(m) -999 bari 0 -999 healthy
+Hebrew adjective(m) -999 cham 0 -999 hot
+Hebrew noun(m) yom shlishi 0 -999 Tuesday
+Hebrew adjective(m) -999 tov 0 -999 good
+Hebrew verb -999 latet 0 -999 to give
+Hebrew adverb -999 kan 0 -999 here
+Hebrew noun(m) -999 juke 0 -999 bug
+Hebrew adverb -999 lemala 0 -999 up
+Hebrew noun(f) -999 mitah 0 -999 bed
+Hebrew noun(f) -999 kafa'fa 0 -999 glove
+Hebrew noun(m) -999 katis ashrei 0 -999 credit card
+Hebrew adjective(m) -999 zol 0 -999 inexpensive
+Hebrew noun(m) -999 smartoot 0 -999 rain
+Hebrew noun(m) -999 sus 0 -999 horse
+Hebrew adverb -999 matai 0 -999 when
+Hebrew noun(f) -999 chatza'it 0 -999 skirt
+Hebrew noun(m) -999 cheshbon 0 -999 bill
